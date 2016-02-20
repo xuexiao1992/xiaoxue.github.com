@@ -33,7 +33,7 @@ if(isset($_POST['name']))
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>zSarah</title>
+	<title>Xiao Xue</title>
 	<meta name="description" content="Free Responsive Html5 Css3 Templates | zerotheme.com">
 	<meta name="author" content="www.zerotheme.com">
 	
@@ -60,7 +60,7 @@ if(isset($_POST['name']))
 		<script src="js/css3-mediaqueries.js"></script>
 	<![endif]-->
 	
-	<link href='./images/favicon.ico' rel='icon' type='image/x-icon'/>
+	<link href='./images/my_icon.ico' rel='icon' type='image/x-icon'/>
     
 </head>
 <body>
@@ -217,7 +217,7 @@ if(isset($_POST['name']))
 							<h6><a href="personal.html">Personal Profile</a></h6>
 						</div>
 						<div class="post">
-							<a href="research.html"><img src="images/img03.jpg"/></a>
+							<a href="research.html"><img src="images/research.jpg"/></a>
 							<h6><a href="research.html">Research</a></h6>
 						</div>
 						<div class="post">
