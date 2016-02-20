@@ -68,7 +68,7 @@ nav .menu{}/*-component.css-*/
 .page-single #sidebar{padding: 20px;}
 .page-single .art-related{margin-top: 30px; border-top : 1px solid; padding-top: 20px;}
 .page-single .art-related span{font-size: 25px;}
-.page-single .art-related img{display: inline-block; margin-bottom: 10px;}
+.page-single .art-related img{display: inline-block; margin-bottom: 5px;}
 .page-single .art-related h4{font-size: 16px; text-transform: capitalize;}
 .page-single article{}/*--component.css--*/
 
@@ -88,3 +88,19 @@ footer .menu-bottom ul{list-style: none;}
 footer .menu-bottom ul li{float: left; padding: 5px 15px;}
 
 .copyright{text-align:center; margin-top:50px; background:#111111; padding:10px 0px;}
+
+/* ---------------------------------------------------------------------------- */
+/* -------------------------------------Image--------------------------------- */
+/* ---------------------------------------------------------------------------- */
+img.rightembeded {float: right; padding-top:10px; padding-left:20px; padding-bottom:0;}
+img.leftembeded {float: left; padding-top:10px; padding-right:20px; padding-bottom:0;}
+img.gallery {padding-bottom:0; margin-bottom:0;}
+/* ---------------------------------------------------------------------------- */
+/* -------------------------------------Table--------------------------------- */
+/* ---------------------------------------------------------------------------- */
+table.personal {width: 100%;}
+td.personal {text-align: right;}
+table.gallery {width: 100%;}
+td.gallery {text-align: center;}
+.gallery td {text-align:center;}
+img.pos_top {position:relative; top: 40px;}
