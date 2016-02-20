@@ -149,7 +149,7 @@ if(isset($_POST['name']))
 						<div id="contact_form">								
 						    <form name="form1" id="ff" method="post" action="contact.php">
 						    <h3>Hello !! You can send message to us.</h3>
-						    <p>[Ready to use] Hi Everyone !! Visitor can use this contact form to send message to you. Open file contact.php and modify your email.</p>
+						    <p>Opps! Under Maintenance! Not able to use!</p>
 						       
 						    <label>
 					        <span>Name*:</span>
