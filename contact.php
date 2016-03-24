@@ -210,8 +210,8 @@ if(isset($_POST['name']))
 					<div class="wid-header"><h4>Potential Research Interests</h4></div>
 					<div class="wid-content">
 						<ul>
-							<li align="left"><a href="#">Low-Dimensional Semiconductor Device</a></li>
 							<li align="left"><a href="#">Superconducting Quantum Device</a></li>
+							<li align="left"><a href="#">Low-Dimensional Semiconductor Device</a></li>
 							<li align="left"><a href="#">Hybrid Qubit-Cavity System</a></li>
 							<li align="left"><a href="#">Hybrid Qubit-Quantum Memory System</a></li>
 						</ul>
